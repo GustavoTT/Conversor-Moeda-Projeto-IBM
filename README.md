@@ -24,5 +24,7 @@ Para o perfeito funcionamento do conversor, em caso de utilizar o código fonte,
 Para melhor acessibilade, geramos um arquivo executável do projeto. Podendo ser utilizado sem a necessidade de ter o Python instalado em seu computador. 👉 PORÉM, para seu funcionamento, é necessário que o arquivo 'uniq.xml' esteja no mesmo local que o executável,
 assim, ele funcionará sem erros. Ao executar, pode ser que o antivírus do seu computador bloqueie o funcionamento do arquivo. ⚠️ Não recomendamos a utilização do executável em ambientes mobile ⚠️.
 
-## Grupo 🧑🧑👩👩👩👩
-- Gustavo Teles
+## Grupo 🧑👩👩
+- Gustavo Tagliatelli Teles
+- Natalia Amorim Botasso
+- Lorena Steinle Damião
