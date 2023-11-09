@@ -9,6 +9,9 @@ Diante disso, desenvolvemos em Python uma aplicação que:
 - Realiza a conversão com base nos dados previamente coletados
 - Retorna ao usuário o resultado do cálculo, ou, em caso de erro, retorna um aviso
 
+## Vídeo do funcionamento do projeto 🎞️
+Link Google Drive -> https://drive.google.com/drive/folders/1byF2lrJaBDKj8KfYnR3P-loKSjIvz0DR?usp=sharing
+
 ## Funcionamento ⚙️
 Optamos por utilizar a API de cotações da AwesomeAPI (https://docs.awesomeapi.com.br/api-de-moedas). 
 Utilizamos as rotas: 
